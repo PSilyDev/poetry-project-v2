@@ -1,0 +1,559 @@
+{
+  "Shakespeare": [
+    {
+      "title": "Sonnet 18",
+      "lines": [
+        "Shall I compare thee to a summer's day?",
+        "Thou art more lovely and more temperate.",
+        "Rough winds do shake the darling buds of May,",
+        "And summer’s lease hath all too short a date..."
+      ]
+    },
+    {
+      "title": "Sonnet 29",
+      "lines": [
+        "When, in disgrace with fortune and men's eyes,",
+        "I all alone beweep my outcast state,",
+        "And trouble deaf heaven with my bootless cries,",
+        "And look upon myself and curse my fate..."
+      ]
+    },
+    {
+      "title": "Sonnet 116",
+      "lines": [
+        "Let me not to the marriage of true minds",
+        "Admit impediments. Love is not love",
+        "Which alters when it alteration finds,",
+        "Or bends with the remover to remove..."
+      ]
+    },
+    {
+      "title": "Sonnet 130",
+      "lines": [
+        "My mistress' eyes are nothing like the sun;",
+        "Coral is far more red than her lips' red;",
+        "If snow be white, why then her breasts are dun;",
+        "If hairs be wires, black wires grow on her head..."
+      ]
+    },
+    {
+      "title": "Sonnet 73",
+      "lines": [
+        "That time of year thou mayst in me behold",
+        "When yellow leaves, or none, or few, do hang",
+        "Upon those boughs which shake against the cold,",
+        "Bare ruined choirs, where late the sweet birds sang..."
+      ]
+    },
+    {
+      "title": "Sonnet 60",
+      "lines": [
+        "Like as the waves make towards the pebbled shore,",
+        "So do our minutes hasten to their end;",
+        "Each changing place with that which goes before,",
+        "In sequent toil all forwards do contend..."
+      ]
+    },
+    {
+      "title": "Sonnet 55",
+      "lines": [
+        "Not marble, nor the gilded monuments",
+        "Of princes, shall outlive this powerful rhyme;",
+        "But you shall shine more bright in these contents",
+        "Than unswept stone besmeared with sluttish time..."
+      ]
+    },
+    {
+      "title": "Sonnet 2",
+      "lines": [
+        "When forty winters shall besiege thy brow,",
+        "And dig deep trenches in thy beauty's field,",
+        "Thy youth's proud livery so gazed on now,",
+        "Will be a tattered weed of small worth held..."
+      ]
+    },
+    {
+      "title": "Sonnet 104",
+      "lines": [
+        "To me, fair friend, you never can be old,",
+        "For as you were when first your eye I eyed,",
+        "Such seems your beauty still. Three winters cold",
+        "Have from the forests shook three summers' pride..."
+      ]
+    },
+    {
+      "title": "Sonnet 147",
+      "lines": [
+        "My love is as a fever, longing still",
+        "For that which longer nurseth the disease;",
+        "Feeding on that which doth preserve the ill,",
+        "The uncertain sickly appetite to please..."
+      ]
+    }
+  ],
+  "Emily Dickinson": [
+    {
+      "title": "Hope is the thing with feathers",
+      "lines": [
+        "Hope is the thing with feathers",
+        "That perches in the soul,",
+        "And sings the tune without the words,",
+        "And never stops at all..."
+      ]
+    },
+    {
+      "title": "Because I could not stop for Death",
+      "lines": [
+        "Because I could not stop for Death –",
+        "He kindly stopped for me –",
+        "The Carriage held but just Ourselves –",
+        "And Immortality..."
+      ]
+    },
+    {
+      "title": "I'm Nobody! Who are you?",
+      "lines": [
+        "I'm Nobody! Who are you?",
+        "Are you – Nobody – too?",
+        "Then there's a pair of us!",
+        "Don't tell! they'd advertise – you know!"
+      ]
+    },
+    {
+      "title": "I felt a Funeral, in my Brain",
+      "lines": [
+        "I felt a Funeral, in my Brain,",
+        "And Mourners to and fro",
+        "Kept treading – treading – till it seemed",
+        "That Sense was breaking through..."
+      ]
+    },
+    {
+      "title": "A Bird came down the Walk",
+      "lines": [
+        "A Bird came down the Walk –",
+        "He did not know I saw –",
+        "He bit an Angleworm in halves",
+        "And ate the fellow, raw..."
+      ]
+    },
+    {
+      "title": "My Life had stood – a Loaded Gun",
+      "lines": [
+        "My Life had stood – a Loaded Gun –",
+        "In Corners – till a Day",
+        "The Owner passed – identified –",
+        "And carried Me away..."
+      ]
+    },
+    {
+      "title": "I heard a Fly buzz – when I died",
+      "lines": [
+        "I heard a Fly buzz – when I died –",
+        "The Stillness in the Room",
+        "Was like the Stillness in the Air –",
+        "Between the Heaves of Storm..."
+      ]
+    },
+    {
+      "title": "There's a certain Slant of light",
+      "lines": [
+        "There's a certain Slant of light,",
+        "Winter Afternoons –",
+        "That oppresses, like the Heft",
+        "Of Cathedral Tunes..."
+      ]
+    },
+    {
+      "title": "Success is counted sweetest",
+      "lines": [
+        "Success is counted sweetest",
+        "By those who ne'er succeed.",
+        "To comprehend a nectar",
+        "Requires sorest need..."
+      ]
+    },
+    {
+      "title": "Safe in their Alabaster Chambers",
+      "lines": [
+        "Safe in their Alabaster Chambers –",
+        "Untouched by Morning –",
+        "And untouched by Noon –",
+        "Sleep the meek members of the Resurrection..."
+      ]
+    }
+  ],
+  "Robert Frost": [
+    {
+      "title": "The Road Not Taken",
+      "lines": [
+        "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth;",
+        
+        "Then took the other, as just as fair, And having perhaps the  better claim, Because it was grassy and wanted wear; Though as for that the passing there Had worn them really about the same,",
+
+        "And both that morning equally lay In leaves no step had trodden black.Oh, I kept the first for another day! Yet knowing how way leads on to way, I doubted if I should ever come back.",
+
+        "I shall be telling this with a sigh Somewhere ages and ages hence: Two roads diverged in a wood, and I took the one less traveled by, And that has made all the difference."
+      ]
+    },
+    {
+      "title": "Stopping by Woods on a Snowy Evening",
+      "lines": [
+        "Whose woods these are I think I know.",
+        "His house is in the village though;",
+        "He will not see me stopping here",
+        "To watch his woods fill up with snow."
+      ]
+    },
+    {
+      "title": "Fire and Ice",
+      "lines": [
+        "Some say the world will end in fire,",
+        "Some say in ice.",
+        "From what I’ve tasted of desire",
+        "I hold with those who favor fire."
+      ]
+    },
+    {
+      "title": "Birches",
+      "lines": [
+        "When I see birches bend to left and right",
+        "Across the lines of straighter darker trees,",
+        "I like to think some boy's been swinging them.",
+        "But swinging doesn't bend them down to stay..."
+      ]
+    },
+    {
+      "title": "Mending Wall",
+      "lines": [
+        "Something there is that doesn’t love a wall,",
+        "That sends the frozen-ground-swell under it,",
+        "And spills the upper boulders in the sun;",
+        "And makes gaps even two can pass abreast..."
+      ]
+    },
+    {
+      "title": "Nothing Gold Can Stay",
+      "lines": [
+        "Nature’s first green is gold,",
+        "Her hardest hue to hold.",
+        "Her early leaf’s a flower;",
+        "But only so an hour..."
+      ]
+    },
+    {
+      "title": "After Apple-Picking",
+      "lines": [
+        "My long two-pointed ladder’s sticking through a tree",
+        "Toward heaven still,",
+        "And there’s a barrel that I didn’t fill",
+        "Beside it, and there may be two or three..."
+      ]
+    },
+    {
+      "title": "Acquainted with the Night",
+      "lines": [
+        "I have been one acquainted with the night.",
+        "I have walked out in rain — and back in rain.",
+        "I have outwalked the furthest city light.",
+        "I have looked down the saddest city lane..."
+      ]
+    },
+    {
+      "title": "Home Burial",
+      "lines": [
+        "He saw her from the bottom of the stairs",
+        "Before she saw him. She was starting down,",
+        "Looking back over her shoulder at some fear.",
+        "She took a doubtful step and then undid it..."
+      ]
+    },
+    {
+      "title": "A Servant to Servants",
+      "lines": [
+        "I didn’t make you know how glad I was",
+        "To have you come and camp here on our land.",
+        "I promised myself to get down some day",
+        "And see the way you lived, but I don’t know!"
+      ]
+    }
+  ],
+  "Maya Angelou": [
+    {
+      "title": "Still I Rise",
+      "lines": [
+        "You may write me down in history",
+        "With your bitter, twisted lies,",
+        "You may trod me in the very dirt",
+        "But still, like dust, I'll rise."
+      ]
+    },
+    {
+      "title": "Phenomenal Woman",
+      "lines": [
+        "Pretty women wonder where my secret lies.",
+        "I'm not cute or built to suit a fashion model's size",
+        "But when I start to tell them,",
+        "They think I'm telling lies."
+      ]
+    },
+    {
+      "title": "Caged Bird",
+      "lines": [
+        "A free bird leaps on the back of the wind",
+        "And floats downstream till the current ends",
+        "And dips his wing in the orange sun rays",
+        "And dares to claim the sky."
+      ]
+    },
+    {
+      "title": "Woman Work",
+      "lines": [
+        "I've got the children to tend",
+        "The clothes to mend",
+        "The floor to mop",
+        "The food to shop"
+      ]
+    },
+    {
+      "title": "When Great Trees Fall",
+      "lines": [
+        "When great trees fall,",
+        "rocks on distant hills shudder,",
+        "lions hunker down",
+        "in tall grasses,"
+      ]
+    },
+    {
+      "title": "On the Pulse of Morning",
+      "lines": [
+        "A Rock, A River, A Tree",
+        "Hosts to species long since departed,",
+        "Marked the mastodon,",
+        "The dinosaur, who left dried tokens"
+      ]
+    },
+    {
+      "title": "Awaking in New York",
+      "lines": [
+        "Curtains forcing their will against the wind,",
+        "children sleep, exchanging dreams with seraphim.",
+        "The city drags itself awake on subway straps;",
+        "and I, an alarm, awake as a rumor of war,"
+      ]
+    },
+    {
+      "title": "Alone",
+      "lines": [
+        "Lying, thinking",
+        "Last night",
+        "How to find my soul a home",
+        "Where water is not thirsty"
+      ]
+    },
+    {
+      "title": "The Lesson",
+      "lines": [
+        "I keep on dying again.",
+        "Veins collapse, opening like the",
+        "Small fists of sleeping",
+        "Children."
+      ]
+    },
+    {
+      "title": "A Brave and Startling Truth",
+      "lines": [
+        "We, this people, on a small and lonely planet",
+        "Traveling through casual space",
+        "Past aloof stars, across the way of indifferent suns",
+        "To a destination where all signs tell us"
+      ]
+    }
+  ],
+  
+  "Walt Whitman": [
+    {
+      "title": "O Captain! My Captain!",
+      "lines": [
+        "O Captain! my Captain! our fearful trip is done,",
+        "The ship has weather’d every rack, the prize we sought is won,",
+        "The port is near, the bells I hear, the people all exulting,",
+        "While follow eyes the steady keel, the vessel grim and daring."
+      ]
+    },
+    {
+      "title": "Song of Myself",
+      "lines": [
+        "I celebrate myself, and sing myself,",
+        "And what I assume you shall assume,",
+        "For every atom belonging to me as good belongs to you.",
+        "I loaf and invite my soul,"
+      ]
+    },
+    {
+      "title": "I Hear America Singing",
+      "lines": [
+        "I hear America singing, the varied carols I hear,",
+        "Those of mechanics, each one singing his as it should be, blithe and strong;",
+        "The carpenter singing his as he measures his plank or beam,",
+        "The mason singing his as he makes ready for work, or leaves off work;"
+      ]
+    },
+    {
+      "title": "When Lilacs Last in the Dooryard Bloom’d",
+      "lines": [
+        "When lilacs last in the dooryard bloom’d,",
+        "And the great star early droop’d in the western sky in the night,",
+        "I mourn’d, and yet shall mourn with ever-returning spring.",
+        "Ever-returning spring, trinity sure to me you bring,"
+      ]
+    },
+    {
+      "title": "A Noiseless Patient Spider",
+      "lines": [
+        "A noiseless patient spider,",
+        "I mark’d where on a little promontory it stood isolated,",
+        "Mark’d how to explore the vacant vast surrounding,",
+        "It launch’d forth filament, filament, filament, out of itself,"
+      ]
+    },
+    {
+      "title": "Crossing Brooklyn Ferry",
+      "lines": [
+        "Flood-tide below me! I see you face to face!",
+        "Clouds of the west—sun there half an hour high—I see you also face to face.",
+        "Crowds of men and women attired in the usual costumes, how curious you are to me!",
+        "On the ferry-boats the hundreds and hundreds that cross, returning home, are more curious to me than you suppose;"
+      ]
+    },
+    {
+      "title": "Pioneers! O Pioneers!",
+      "lines": [
+        "Come, my tan-faced children,",
+        "Follow well in order, get your weapons ready;",
+        "Have you your pistols? have you your sharp-edged axes?",
+        "Pioneers! O pioneers!"
+      ]
+    },
+    {
+      "title": "One’s-Self I Sing",
+      "lines": [
+        "One’s-self I sing, a simple separate person,",
+        "Yet utter the word Democratic, the word En-Masse.",
+        "Of physiology from top to toe I sing,",
+        "Not physiognomy alone nor brain alone is worthy for the Muse, I say"
+      ]
+    },
+    {
+      "title": "Beat! Beat! Drums!",
+      "lines": [
+        "Beat! beat! drums!—blow! bugles! blow!",
+        "Through the windows—through doors—burst like a ruthless force,",
+        "Into the solemn church, and scatter the congregation;",
+        "Into the school where the scholar is studying;"
+      ]
+    },
+    {
+      "title": "Miracles",
+      "lines": [
+        "Why, who makes much of a miracle?",
+        "As to me I know of nothing else but miracles,",
+        "Whether I walk the streets of Manhattan,",
+        "Or dart my sight over the roofs of houses toward the sky,"
+      ]
+    }
+  ],
+  "John Milton": [
+    {
+      "title": "On His Blindness",
+      "lines": [
+        "When I consider how my light is spent,",
+        "Ere half my days, in this dark world and wide,",
+        "And that one talent which is death to hide,",
+        "Lodged with me useless, though my soul more bent"
+      ]
+    },
+    {
+      "title": "L'Allegro",
+      "lines": [
+        "Haste thee, nymph, and bring with thee",
+        "Jest and youthful jollity,",
+        "Quips and cranks and wanton wiles,",
+        "Nods and becks and wreathed smiles"
+      ]
+    },
+    {
+      "title": "Il Penseroso",
+      "lines": [
+        "Hence, vain deluding Joys,",
+        "The brood of Folly without father bred!",
+        "How little you bestead,",
+        "Or fill the fixed mind with all your toys!"
+      ]
+    },
+    {
+      "title": "Lycidas",
+      "lines": [
+        "Yet once more, O ye laurels, and once more",
+        "Ye myrtles brown, with ivy never sere,",
+        "I come to pluck your berries harsh and crude,",
+        "And with forced fingers rude"
+      ]
+    },
+    {
+      "title": "Paradise Lost (Book I - Opening Lines)",
+      "lines": [
+        "Of Man's first disobedience, and the fruit",
+        "Of that forbidden tree whose mortal taste",
+        "Brought death into the World, and all our woe,",
+        "With loss of Eden, till one greater Man"
+      ]
+    },
+    {
+      "title": "Paradise Regained (Book I - Opening Lines)",
+      "lines": [
+        "I who erewhile the happy Garden sung,",
+        "By one man's disobedience lost, now sing",
+        "Recovered Paradise to all mankind,",
+        "By one man's firm obedience fully tried"
+      ]
+    },
+    {
+      "title": "On Shakespeare",
+      "lines": [
+        "What needs my Shakespeare for his honoured bones,",
+        "The labour of an age in piled stones?",
+        "Or that his hallowed reliques should be hid",
+        "Under a star-ypointing pyramid?"
+      ]
+    },
+    {
+      "title": "On the Morning of Christ's Nativity",
+      "lines": [
+        "This is the month, and this the happy morn,",
+        "Wherein the Son of Heaven's eternal King,",
+        "Of wedded maid, and virgin mother born,",
+        "Our great redemption from above did bring"
+      ]
+    },
+    {
+      "title": "At a Solemn Music",
+      "lines": [
+        "Blest pair of Sirens, pledges of Heaven's joy,",
+        "Sphere-born harmonious sisters, Voice and Verse,",
+        "Wed your divine sounds, and mixed power employ",
+        "Dead things with inbreathed sense able to pierce;"
+      ]
+    },
+    {
+      "title": "Methought I Saw My Late Espousèd Saint",
+      "lines": [
+        "Methought I saw my late espousèd saint",
+        "Brought to me like Alcestis from the grave,",
+        "Whom Jove’s great son to her glad husband gave,",
+        "Rescued from Death by force, though pale and faint."
+      ]
+    }
+  ]
+}
+
