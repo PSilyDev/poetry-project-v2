@@ -54,6 +54,7 @@
 .suggestion_pill:hover:not(.selected):not(:disabled) {
     background-color: #333; /* Darken on hover */
     transform: translateY(-1px); /* Slight lift on hover */
+    color: white;
 }
 
 .suggestion_pill:disabled {
@@ -73,12 +74,12 @@
     z-index: -1;
     background: linear-gradient(
         270deg,
-        #ff6ec4,
-        #7873f5,
-        #4ade80,
-        #facc15,
-        #f87171,
-        #ff6ec4
+        #E69E66,
+        #E5B794,
+        #E4D2C4,
+        #E5B794,
+        #E5B794,
+        #E69E66
     );
     background-size: 1000% 1000%;
     animation: borderGradient 20s ease infinite;
@@ -102,9 +103,9 @@
     z-index: 1;
     padding: 9px 12px;
     font-weight: 400;
-    color: white;
+    color: #1e1e1e;
     border-radius: 8px;
-    background-color: #1e1e1e;
+    background-color: rgba(255, 255, 255, 0.35);
     flex-shrink: 0;
     transition: background-color 0.2s ease;
     line-height: 1;
@@ -115,6 +116,7 @@
 
 .chevron:hover {
     background-color: #333;
+    color: white;
 }
 
 .chevron-left {
